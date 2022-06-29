@@ -1,0 +1,1 @@
+# Multitouch-capabilities-of-Synaptics-Touchpad-with-VoodooPS2-2.2.9-Acidanthera-
