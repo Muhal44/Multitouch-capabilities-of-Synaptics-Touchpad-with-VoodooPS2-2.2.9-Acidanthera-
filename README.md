@@ -10,4 +10,4 @@
 NOTE1: Not Working: Trackpad's left and right physical buttons
 NOTE2: The DEBUG version of VoodooPS2Controller.kext, which I got directly from Acidanthera's site, worked, but RELEASE does not work.
 
-If you find a solution to make the left and right buttons work, please wright me.
+If you find a solution to make the left and right buttons work, please open issue.
